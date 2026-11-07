@@ -51,6 +51,7 @@
             btnCustomize.TabIndex = 1;
             btnCustomize.Text = "Customize";
             btnCustomize.UseVisualStyleBackColor = true;
+            btnCustomize.Click += btnCustomize_Click;
             // 
             // btnStart
             // 
